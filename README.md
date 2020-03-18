@@ -1,2 +1,2 @@
 # NeuralStocInference
-Deep neural network for stochastic inference of biochemical reactions
+Deep neural learning for stochastic inference of biochemical reactions
